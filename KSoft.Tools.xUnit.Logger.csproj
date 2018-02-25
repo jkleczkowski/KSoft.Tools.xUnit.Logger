@@ -11,6 +11,9 @@
     <PackageTags>xunit, logger</PackageTags>
     <RepositoryType></RepositoryType>
     <Copyright>KSoft</Copyright>
+    <RepositoryUrl>https://github.com/jkleczkowski/KSoft.Tools.xUnit.Logger</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/jkleczkowski/KSoft.Tools.xUnit.Logger</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/jkleczkowski/KSoft.Tools.xUnit.Logger/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
