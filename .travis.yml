@@ -1,5 +1,6 @@
 language: csharp
 solution: "./KSoft.Tools.xUnit.Logger.sln"
+os: "windows"
 install:
   - travis_retry dotnet restore ./KSoft.Tools.xUnit.Logger.sln
 script:
